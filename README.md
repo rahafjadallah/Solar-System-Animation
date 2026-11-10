@@ -1,10 +1,11 @@
 # 🌍 Solar System Animation ☀️🌙
 
 ## 🌐 Live Demo
-[Click here to try the project]()
+(https://rahafjadallah.github.io/-Solar-System-Animation-/)
 
 ## 📷 Screenshot
-![Solar System Animation Screenshot]()
+<img width="1366" height="648" alt="🌍 Solar System Animation " src="https://github.com/user-attachments/assets/b150dc94-fe5f-4090-b1be-567ea1df3b11" />
+
 
 ## 📌 About The Project
 
